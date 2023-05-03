@@ -4,15 +4,47 @@
         "chef_picture": "https://scontent.fdac2-2.fna.fbcdn.net/v/t39.30808-6/300511350_404461378497613_8479111412012093815_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeFhGejBht4REQwntNCvEq2WCjG_VpGm01IKMb9WkabTUgCkqFGuZHrGEfbWUjyGDdkxoqM4NgBlaaJq_PV1xA3X&_nc_ohc=JjAqMMyl6kEAX_9gpp_&_nc_zt=23&_nc_ht=scontent.fdac2-2.fna&oh=00_AfCpBqjYsgyM2P6I8Zk1Ypj_RDROAJmV8yfL7VOS7Gpkcw&oe=64556991",
         "chef_name": "Subir Kumar Deb",
         "years_of_experience": "12 Years",
-        "numbers_of_recipes": 7,
-        "likes": 25421
+        "numbers_of_recipes": 107,
+        "likes": 25421,
+        "view-recipes": [
+            {
+                "id": 1,
+                "img": "https://www.chefspencil.com/wp-content/uploads/Haleem-960x960.jpg.webp",
+                "ingredients": "Meat, Lentils, Wheat, Spices, Onions, Ginger and garlic, Ghee or oil, Garnishes",
+                "name": "Haleem",
+                "info": "Haleem is a thick, porridge-like dish that is popular in South Asian and Middle Eastern cuisine. It is typically made with a combination of meat (such as beef, lamb, or chicken), lentils, and wheat, along with a blend of spices and other flavorings. The ingredients are slow-cooked over several hours until they become tender and mushy, resulting in a rich and flavorful dish that is often served with bread or naan. Haleem is a hearty and nutritious meal that is often enjoyed during festivals and special occasions, and it is considered a comfort food by many.",
+
+                "method": "Soak the broken wheat and lentils in water for 2-3 hours.In a large pot, cook the meat in water until tender. Remove the meat and set asideIn the same pot, add the soaked wheat and lentils along with 8-10 cups of water. Cook on low heat for 2-3 hours, stirring occasionally.In a separate pan, heat oil or ghee and fry the sliced onions until golden brown. Add ginger-garlic paste and fry for another minute.Add the fried onions, ginger-garlic paste, and spices to the pot with the cooked wheat and lentils. Mix well and continue cooking for another hour, stirring occasionally.Once the mixture is thick and smooth, add the cooked meat and garam masala powder. Mix well and cook for another 15-20 minutes.Serve hot with garnishes like fried onions, lemon wedges, chopped coriander leaves, and ginger juliennes.",
+                "rating": 4.8
+            },
+            {
+                "id": 2,
+                "img": "https://www.chefspencil.com/wp-content/uploads/Seekh-Kebab-960x960.jpg.webp",
+                "ingredients": "mutton , chicken , ginger-garlic paste, onion paste , red chilli powder, coriander powder, cumin powder, pepper, powdered, dried mango powder, saunth (dry ginger powder), oil, cashew paste, cream, besan, yolk, taste salt",
+                "name": "Seekh Kebab",
+                "info": "Seekh kebab is a popular dish in many other countries in South Asia, Central Asia, and the Middle East, including India, Pakistan, Afghanistan, Iran, and Turkey. The recipe and cooking method may vary slightly depending on the region and local ingredients, but the dish is generally made with minced meat, spices, and herbs, and is cooked on skewers over hot coals or in a tandoor oven. Seekh kebab is often served with naan bread or rice, and can be accompanied by various chutneys, sauces, or yogurt-based dips. It is a flavorful and delicious dish that is enjoyed by many people around the world",
+
+                "method": "In a bowl mix together the mutton mince and the chicken mince. Mix them with your hands.Add ginger-garlic paste to it along with onion paste, red chilli powder, coriander powder, cumin powder, powdered pepper, dried mango powder, saunth, oil, cashew paste and cream. Mix nicely.Add besan (chickpea flour) and egg yolk to bind. Mix well.Add salt to taste. Mix. Cover and keep in the fridge for 1 hour.Skewer the kebabs onto oiled skewers and grill or roast till the outside is nicely browned. Baste frequently with oil while grilling.Once the kebabs are cooked, remove to a serving platter and garnish with onion rings, fresh coriander leaves and lemon wedges.",
+                "rating": 4.9
+            },
+            {
+                "id": 2 ,
+                "img": "https://www.chefspencil.com/wp-content/uploads/Rasgulla-960x960.jpg",
+                "ingredients": "mutton , chicken , ginger-garlic paste, onion paste , red chilli powder, coriander powder, cumin powder, pepper, powdered, dried mango powder, saunth (dry ginger powder), oil, cashew paste, cream, besan, yolk, taste salt",
+                "name": "Rasgulla",
+                "info": "Seekh kebab is a popular dish in many other countries in South Asia, Central Asia, and the Middle East, including India, Pakistan, Afghanistan, Iran, and Turkey. The recipe and cooking method may vary slightly depending on the region and local ingredients, but the dish is generally made with minced meat, spices, and herbs, and is cooked on skewers over hot coals or in a tandoor oven. Seekh kebab is often served with naan bread or rice, and can be accompanied by various chutneys, sauces, or yogurt-based dips. It is a flavorful and delicious dish that is enjoyed by many people around the world",
+
+                "method": "In a bowl mix together the mutton mince and the chicken mince. Mix them with your hands.Add ginger-garlic paste to it along with onion paste, red chilli powder, coriander powder, cumin powder, powdered pepper, dried mango powder, saunth, oil, cashew paste and cream. Mix nicely.Add besan (chickpea flour) and egg yolk to bind. Mix well.Add salt to taste. Mix. Cover and keep in the fridge for 1 hour.Skewer the kebabs onto oiled skewers and grill or roast till the outside is nicely browned. Baste frequently with oil while grilling.Once the kebabs are cooked, remove to a serving platter and garnish with onion rings, fresh coriander leaves and lemon wedges.",
+                "rating": 4.9
+            }
+        ]
     },
     {
         "id": "2",
         "chef_picture": "https://media.licdn.com/dms/image/C5603AQEyr7FlTnM6ig/profile-displayphoto-shrink_800_800/0/1643712665817?e=1688601600&v=beta&t=yF_bd4gRBVF2liOtuqdm6kgPD9U6qMpBlhIryIJXb9I",
         "chef_name": "Sharad Dewan",
         "years_of_experience": "7 Years",
-        "numbers_of_recipes": 5,
+        "numbers_of_recipes": 78,
         "likes": 18953
     },
     {
@@ -20,7 +52,7 @@
         "chef_picture": "https://miro.medium.com/v2/resize:fit:720/format:webp/0*9Deplex9Tnnl5oxe.jpg",
         "chef_name": "Ashraful Islam Ashraf",
         "years_of_experience": "4 Years",
-        "numbers_of_recipes": 5,
+        "numbers_of_recipes": 70,
         "likes": 9081
     },
     {
@@ -28,7 +60,7 @@
         "chef_picture": "https://media.licdn.com/dms/image/C4E03AQH35WkmWvLQbQ/profile-displayphoto-shrink_800_800/0/1629833143364?e=2147483647&v=beta&t=5CW4MRMhE0Grn92FFHA_wu_jIbSfSE1jdAwMVQIz2rw",
         "chef_name": "Md Mahbubul Alom",
         "years_of_experience": "4 Years",
-        "numbers_of_recipes": 6,
+        "numbers_of_recipes": 69,
         "likes": 8756
     },
     {
@@ -36,7 +68,7 @@
         "chef_picture": "https://media.licdn.com/dms/image/C5603AQGLluqwuKFG9g/profile-displayphoto-shrink_800_800/0/1642929855353?e=2147483647&v=beta&t=GpBjvpRaF-8LcIrNfILexr5GuiqfLfFjbc1lECCmf6k",
         "chef_name": "Ahsan Habib",
         "years_of_experience": "4 Years",
-        "numbers_of_recipes": 6,
+        "numbers_of_recipes": 96,
         "likes": 6523
     },
     {
@@ -44,7 +76,7 @@
         "chef_picture": "https://ssl.du.ac.bd/fontView/assets/faculty_image/2192_292115368_561804518939525_4256734842753446300_n.jpg",
         "chef_name": "Javed Hasan",
         "years_of_experience": "2 Years",
-        "numbers_of_recipes": 5,
+        "numbers_of_recipes": 6,
         "likes": 3129
     }
 ]

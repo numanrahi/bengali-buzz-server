@@ -3,7 +3,7 @@ const app = express();
 const cors = require('cors')
 const port = process.env.PORT || 5000;
 
-// const categories = require('./data/categories.json')
+const chefs = require('./data/chefMarquee.json')
 
 const chef = require('./data/chef.json')
 
@@ -13,9 +13,9 @@ app.get('/', (req, res) => {
     res.send('dragon is running')
 })
 
-// app.get('/categories', (req, res) => {
-//     res.send(categories)
-// })
+app.get('/chefs', (req, res) => {
+    res.send(chefs)
+})
 
 app.get('/chef', (req, res) => {
     res.send(chef);
