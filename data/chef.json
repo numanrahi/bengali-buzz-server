@@ -13,7 +13,6 @@
                 "ingredients": "Meat, Lentils, Wheat, Spices, Onions, Ginger and garlic, Ghee or oil, Garnishes",
                 "name": "Haleem",
                 "info": "Haleem is a thick, porridge-like dish that is popular in South Asian and Middle Eastern cuisine. It is typically made with a combination of meat (such as beef, lamb, or chicken), lentils, and wheat, along with a blend of spices and other flavorings. The ingredients are slow-cooked over several hours until they become tender and mushy, resulting in a rich and flavorful dish that is often served with bread or naan. Haleem is a hearty and nutritious meal that is often enjoyed during festivals and special occasions, and it is considered a comfort food by many.",
-
                 "method": "Soak the broken wheat and lentils in water for 2-3 hours.In a large pot, cook the meat in water until tender. Remove the meat and set asideIn the same pot, add the soaked wheat and lentils along with 8-10 cups of water. Cook on low heat for 2-3 hours, stirring occasionally.In a separate pan, heat oil or ghee and fry the sliced onions until golden brown. Add ginger-garlic paste and fry for another minute.Add the fried onions, ginger-garlic paste, and spices to the pot with the cooked wheat and lentils. Mix well and continue cooking for another hour, stirring occasionally.Once the mixture is thick and smooth, add the cooked meat and garam masala powder. Mix well and cook for another 15-20 minutes.Serve hot with garnishes like fried onions, lemon wedges, chopped coriander leaves, and ginger juliennes.",
                 "rating": 4.8
             },
@@ -23,19 +22,17 @@
                 "ingredients": "mutton , chicken , ginger-garlic paste, onion paste , red chilli powder, coriander powder, cumin powder, pepper, powdered, dried mango powder, saunth (dry ginger powder), oil, cashew paste, cream, besan, yolk, taste salt",
                 "name": "Seekh Kebab",
                 "info": "Seekh kebab is a popular dish in many other countries in South Asia, Central Asia, and the Middle East, including India, Pakistan, Afghanistan, Iran, and Turkey. The recipe and cooking method may vary slightly depending on the region and local ingredients, but the dish is generally made with minced meat, spices, and herbs, and is cooked on skewers over hot coals or in a tandoor oven. Seekh kebab is often served with naan bread or rice, and can be accompanied by various chutneys, sauces, or yogurt-based dips. It is a flavorful and delicious dish that is enjoyed by many people around the world",
-
                 "method": "In a bowl mix together the mutton mince and the chicken mince. Mix them with your hands.Add ginger-garlic paste to it along with onion paste, red chilli powder, coriander powder, cumin powder, powdered pepper, dried mango powder, saunth, oil, cashew paste and cream. Mix nicely.Add besan (chickpea flour) and egg yolk to bind. Mix well.Add salt to taste. Mix. Cover and keep in the fridge for 1 hour.Skewer the kebabs onto oiled skewers and grill or roast till the outside is nicely browned. Baste frequently with oil while grilling.Once the kebabs are cooked, remove to a serving platter and garnish with onion rings, fresh coriander leaves and lemon wedges.",
                 "rating": 4.9
             },
             {
-                "id": 2 ,
+                "id": 3,
                 "img": "https://www.chefspencil.com/wp-content/uploads/Rasgulla-960x960.jpg",
-                "ingredients": "mutton , chicken , ginger-garlic paste, onion paste , red chilli powder, coriander powder, cumin powder, pepper, powdered, dried mango powder, saunth (dry ginger powder), oil, cashew paste, cream, besan, yolk, taste salt",
+                "ingredients": "Milk, Lemon juice or vinegar, Sugar, water, Cardamom, rose water or saffron, Cornflour or semolina",
                 "name": "Rasgulla",
-                "info": "Seekh kebab is a popular dish in many other countries in South Asia, Central Asia, and the Middle East, including India, Pakistan, Afghanistan, Iran, and Turkey. The recipe and cooking method may vary slightly depending on the region and local ingredients, but the dish is generally made with minced meat, spices, and herbs, and is cooked on skewers over hot coals or in a tandoor oven. Seekh kebab is often served with naan bread or rice, and can be accompanied by various chutneys, sauces, or yogurt-based dips. It is a flavorful and delicious dish that is enjoyed by many people around the world",
-
-                "method": "In a bowl mix together the mutton mince and the chicken mince. Mix them with your hands.Add ginger-garlic paste to it along with onion paste, red chilli powder, coriander powder, cumin powder, powdered pepper, dried mango powder, saunth, oil, cashew paste and cream. Mix nicely.Add besan (chickpea flour) and egg yolk to bind. Mix well.Add salt to taste. Mix. Cover and keep in the fridge for 1 hour.Skewer the kebabs onto oiled skewers and grill or roast till the outside is nicely browned. Baste frequently with oil while grilling.Once the kebabs are cooked, remove to a serving platter and garnish with onion rings, fresh coriander leaves and lemon wedges.",
-                "rating": 4.9
+                "info": "Rasgulla is also a popular dessert in Bangladesh, where it is known as 'rossomalai'. The preparation and cooking method is similar to the Indian version, where the chenna dough is kneaded into small balls, boiled in sugar syrup, and then soaked in a creamy milk mixture. The milk mixture can be flavored with cardamom, saffron, or other spices, and is sometimes garnished with nuts, such as almonds or pistachios. Rossomalai is a beloved dessert in Bangladesh and is often served during special occasions, such as weddings and Eid celebrations. It is a sweet and creamy dessert that is loved by many people in Bangladesh and around the world.",
+                "method": "In a large pot, bring 4 cups of whole milk to a boil.Reduce the heat to low and add 2 tablespoons of lemon juice or vinegar to the milk.Stir the milk gently until it curdles and the whey separates from the curds.Pour the curdled milk through a cheesecloth-lined strainer to separate the curds from the whey. Gather the cheesecloth together and squeeze out as much liquid as possible.Knead the chenna (curdled milk) until it forms a smooth dough-like texture.Divide the chenna into small balls and roll them between your palms until they are smooth and without any cracks.In a separate pot, combine 1 cup of granulated sugar and 5 cups of water and bring to a boil, stirring until the sugar dissolves.Gently add the chenna balls to the boiling syrup and cover the pot.Let the Rasgullas cook in the syrup on medium heat for 15-20 minutes.Turn off the heat and let the Rasgullas cool in the syrup for a few hours.Remove the Rasgullas from the syrup and serve chilled.",
+                "rating": 5
             }
         ]
     },
@@ -45,7 +42,36 @@
         "chef_name": "Sharad Dewan",
         "years_of_experience": "7 Years",
         "numbers_of_recipes": 78,
-        "likes": 18953
+        "likes": 18953,
+        "view-recipes": [
+            {
+                "id": 1,
+                "img": "https://www.chefspencil.com/wp-content/uploads/Seekh-Kebab-960x960.jpg.webp",
+                "ingredients": "mutton , chicken , ginger-garlic paste, onion paste , red chilli powder, coriander powder, cumin powder, pepper, powdered, dried mango powder, saunth (dry ginger powder), oil, cashew paste, cream, besan, yolk, taste salt",
+                "name": "Seekh Kebab",
+                "info": "Seekh kebab is a popular dish in many other countries in South Asia, Central Asia, and the Middle East, including India, Pakistan, Afghanistan, Iran, and Turkey. The recipe and cooking method may vary slightly depending on the region and local ingredients, but the dish is generally made with minced meat, spices, and herbs, and is cooked on skewers over hot coals or in a tandoor oven. Seekh kebab is often served with naan bread or rice, and can be accompanied by various chutneys, sauces, or yogurt-based dips. It is a flavorful and delicious dish that is enjoyed by many people around the world",
+                "method": "In a bowl mix together the mutton mince and the chicken mince. Mix them with your hands.Add ginger-garlic paste to it along with onion paste, red chilli powder, coriander powder, cumin powder, powdered pepper, dried mango powder, saunth, oil, cashew paste and cream. Mix nicely.Add besan (chickpea flour) and egg yolk to bind. Mix well.Add salt to taste. Mix. Cover and keep in the fridge for 1 hour.Skewer the kebabs onto oiled skewers and grill or roast till the outside is nicely browned. Baste frequently with oil while grilling.Once the kebabs are cooked, remove to a serving platter and garnish with onion rings, fresh coriander leaves and lemon wedges.",
+                "rating": 4.9
+            },
+            {
+                "id": 2,
+                "img": "https://www.chefspencil.com/wp-content/uploads/Haleem-960x960.jpg.webp",
+                "ingredients": "Meat, Lentils, Wheat, Spices, Onions, Ginger and garlic, Ghee or oil, Garnishes",
+                "name": "Haleem",
+                "info": "Haleem is a thick, porridge-like dish that is popular in South Asian and Middle Eastern cuisine. It is typically made with a combination of meat (such as beef, lamb, or chicken), lentils, and wheat, along with a blend of spices and other flavorings. The ingredients are slow-cooked over several hours until they become tender and mushy, resulting in a rich and flavorful dish that is often served with bread or naan. Haleem is a hearty and nutritious meal that is often enjoyed during festivals and special occasions, and it is considered a comfort food by many.",
+                "method": "Soak the broken wheat and lentils in water for 2-3 hours.In a large pot, cook the meat in water until tender. Remove the meat and set asideIn the same pot, add the soaked wheat and lentils along with 8-10 cups of water. Cook on low heat for 2-3 hours, stirring occasionally.In a separate pan, heat oil or ghee and fry the sliced onions until golden brown. Add ginger-garlic paste and fry for another minute.Add the fried onions, ginger-garlic paste, and spices to the pot with the cooked wheat and lentils. Mix well and continue cooking for another hour, stirring occasionally.Once the mixture is thick and smooth, add the cooked meat and garam masala powder. Mix well and cook for another 15-20 minutes.Serve hot with garnishes like fried onions, lemon wedges, chopped coriander leaves, and ginger juliennes.",
+                "rating": 4.8
+            },
+            {
+                "id": 3,
+                "img": "https://www.chefspencil.com/wp-content/uploads/Screenshot-2021-05-24-at-19.15.48.jpg.webp",
+                "ingredients": "Chicken (breast, thighs, or drumsticks), Yogurt,Lemon juice, Ginger paste, Garlic paste, Red chili powder, Red chili powder, Coriander powder, Garam masala, salt, Oil (for grilling)",
+                "name": "Grill Chicken With Naan Roti",
+                "info": " Grilled chicken with naan roti is also a popular dish in Bangladesh, where it is often served as a street food. The chicken is marinated in a mixture of spices and yogurt, and then grilled to perfection over an open flame. The naan bread is usually freshly made, soft and fluffy, and is often served with a side of spicy mint chutney or a refreshing cucumber salad. Grilled chicken with naan roti is a delicious and satisfying meal that is enjoyed by many people in Bangladesh and around the world.",
+                "method": "In a mixing bowl, combine 1 cup of yogurt, 2 tablespoons of lemon juice, 1 tablespoon of ginger paste, 1 tablespoon of garlic paste, 1 teaspoon of red chili powder, 1 teaspoon of cumin powder, 1 teaspoon of coriander powder, 1/2 teaspoon of garam masala, and salt to taste.Mix well to combine all the spices.Add chicken pieces (breast, thighs, or drumsticks) to the marinade and coat them well.Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.Preheat a grill pan or outdoor grill to medium-high heat.Brush the grill with oil. Place the marinated chicken pieces on the grill and cook for 6-7 minutes on each side, or until the chicken is cooked through and browned on the outside.Remove the chicken from the grill and serve hot with naan roti",
+                "rating": 5
+            }
+        ]
     },
     {
         "id": "3",
@@ -53,7 +79,36 @@
         "chef_name": "Ashraful Islam Ashraf",
         "years_of_experience": "4 Years",
         "numbers_of_recipes": 70,
-        "likes": 9081
+        "likes": 9081,
+        "view-recipes": [
+            {
+                "id": 1,
+                "img": "https://www.chefspencil.com/wp-content/uploads/Seekh-Kebab-960x960.jpg.webp",
+                "ingredients": "mutton , chicken , ginger-garlic paste, onion paste , red chilli powder, coriander powder, cumin powder, pepper, powdered, dried mango powder, saunth (dry ginger powder), oil, cashew paste, cream, besan, yolk, taste salt",
+                "name": "Seekh Kebab",
+                "info": "Seekh kebab is a popular dish in many other countries in South Asia, Central Asia, and the Middle East, including India, Pakistan, Afghanistan, Iran, and Turkey. The recipe and cooking method may vary slightly depending on the region and local ingredients, but the dish is generally made with minced meat, spices, and herbs, and is cooked on skewers over hot coals or in a tandoor oven. Seekh kebab is often served with naan bread or rice, and can be accompanied by various chutneys, sauces, or yogurt-based dips. It is a flavorful and delicious dish that is enjoyed by many people around the world",
+                "method": "In a bowl mix together the mutton mince and the chicken mince. Mix them with your hands.Add ginger-garlic paste to it along with onion paste, red chilli powder, coriander powder, cumin powder, powdered pepper, dried mango powder, saunth, oil, cashew paste and cream. Mix nicely.Add besan (chickpea flour) and egg yolk to bind. Mix well.Add salt to taste. Mix. Cover and keep in the fridge for 1 hour.Skewer the kebabs onto oiled skewers and grill or roast till the outside is nicely browned. Baste frequently with oil while grilling.Once the kebabs are cooked, remove to a serving platter and garnish with onion rings, fresh coriander leaves and lemon wedges.",
+                "rating": 4.9
+            },
+            {
+                "id": 2,
+                "img": "https://www.chefspencil.com/wp-content/uploads/Rasgulla-960x960.jpg",
+                "ingredients": "Milk, Lemon juice or vinegar, Sugar, water, Cardamom, rose water or saffron, Cornflour or semolina",
+                "name": "Rasgulla",
+                "info": "Rasgulla is also a popular dessert in Bangladesh, where it is known as 'rossomalai'. The preparation and cooking method is similar to the Indian version, where the chenna dough is kneaded into small balls, boiled in sugar syrup, and then soaked in a creamy milk mixture. The milk mixture can be flavored with cardamom, saffron, or other spices, and is sometimes garnished with nuts, such as almonds or pistachios. Rossomalai is a beloved dessert in Bangladesh and is often served during special occasions, such as weddings and Eid celebrations. It is a sweet and creamy dessert that is loved by many people in Bangladesh and around the world.",
+                "method": "In a large pot, bring 4 cups of whole milk to a boil.Reduce the heat to low and add 2 tablespoons of lemon juice or vinegar to the milk.Stir the milk gently until it curdles and the whey separates from the curds.Pour the curdled milk through a cheesecloth-lined strainer to separate the curds from the whey. Gather the cheesecloth together and squeeze out as much liquid as possible.Knead the chenna (curdled milk) until it forms a smooth dough-like texture.Divide the chenna into small balls and roll them between your palms until they are smooth and without any cracks.In a separate pot, combine 1 cup of granulated sugar and 5 cups of water and bring to a boil, stirring until the sugar dissolves.Gently add the chenna balls to the boiling syrup and cover the pot.Let the Rasgullas cook in the syrup on medium heat for 15-20 minutes.Turn off the heat and let the Rasgullas cool in the syrup for a few hours.Remove the Rasgullas from the syrup and serve chilled.",
+                "rating": 5
+            },
+            {
+                "id": 3,
+                "img": "https://www.chefspencil.com/wp-content/uploads/Screenshot-2021-05-24-at-19.15.48.jpg.webp",
+                "ingredients": "Chicken (breast, thighs, or drumsticks), Yogurt,Lemon juice, Ginger paste, Garlic paste, Red chili powder, Red chili powder, Coriander powder, Garam masala, salt, Oil (for grilling)",
+                "name": "Grill Chicken With Naan Roti",
+                "info": " Grilled chicken with naan roti is also a popular dish in Bangladesh, where it is often served as a street food. The chicken is marinated in a mixture of spices and yogurt, and then grilled to perfection over an open flame. The naan bread is usually freshly made, soft and fluffy, and is often served with a side of spicy mint chutney or a refreshing cucumber salad. Grilled chicken with naan roti is a delicious and satisfying meal that is enjoyed by many people in Bangladesh and around the world.",
+                "method": "In a mixing bowl, combine 1 cup of yogurt, 2 tablespoons of lemon juice, 1 tablespoon of ginger paste, 1 tablespoon of garlic paste, 1 teaspoon of red chili powder, 1 teaspoon of cumin powder, 1 teaspoon of coriander powder, 1/2 teaspoon of garam masala, and salt to taste.Mix well to combine all the spices.Add chicken pieces (breast, thighs, or drumsticks) to the marinade and coat them well.Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.Preheat a grill pan or outdoor grill to medium-high heat.Brush the grill with oil. Place the marinated chicken pieces on the grill and cook for 6-7 minutes on each side, or until the chicken is cooked through and browned on the outside.Remove the chicken from the grill and serve hot with naan roti",
+                "rating": 5
+            }
+        ]
     },
     {
         "id": "4",
@@ -61,7 +116,36 @@
         "chef_name": "Md Mahbubul Alom",
         "years_of_experience": "4 Years",
         "numbers_of_recipes": 69,
-        "likes": 8756
+        "likes": 8756,
+        "view-recipes": [
+            {
+                "id": 1,
+                "img": "https://www.chefspencil.com/wp-content/uploads/Haleem-960x960.jpg.webp",
+                "ingredients": "Meat, Lentils, Wheat, Spices, Onions, Ginger and garlic, Ghee or oil, Garnishes",
+                "name": "Haleem",
+                "info": "Haleem is a thick, porridge-like dish that is popular in South Asian and Middle Eastern cuisine. It is typically made with a combination of meat (such as beef, lamb, or chicken), lentils, and wheat, along with a blend of spices and other flavorings. The ingredients are slow-cooked over several hours until they become tender and mushy, resulting in a rich and flavorful dish that is often served with bread or naan. Haleem is a hearty and nutritious meal that is often enjoyed during festivals and special occasions, and it is considered a comfort food by many.",
+                "method": "Soak the broken wheat and lentils in water for 2-3 hours.In a large pot, cook the meat in water until tender. Remove the meat and set asideIn the same pot, add the soaked wheat and lentils along with 8-10 cups of water. Cook on low heat for 2-3 hours, stirring occasionally.In a separate pan, heat oil or ghee and fry the sliced onions until golden brown. Add ginger-garlic paste and fry for another minute.Add the fried onions, ginger-garlic paste, and spices to the pot with the cooked wheat and lentils. Mix well and continue cooking for another hour, stirring occasionally.Once the mixture is thick and smooth, add the cooked meat and garam masala powder. Mix well and cook for another 15-20 minutes.Serve hot with garnishes like fried onions, lemon wedges, chopped coriander leaves, and ginger juliennes.",
+                "rating": 4.8
+            },
+            {
+                "id": 2,
+                "img": "https://www.chefspencil.com/wp-content/uploads/Seekh-Kebab-960x960.jpg.webp",
+                "ingredients": "mutton , chicken , ginger-garlic paste, onion paste , red chilli powder, coriander powder, cumin powder, pepper, powdered, dried mango powder, saunth (dry ginger powder), oil, cashew paste, cream, besan, yolk, taste salt",
+                "name": "Seekh Kebab",
+                "info": "Seekh kebab is a popular dish in many other countries in South Asia, Central Asia, and the Middle East, including India, Pakistan, Afghanistan, Iran, and Turkey. The recipe and cooking method may vary slightly depending on the region and local ingredients, but the dish is generally made with minced meat, spices, and herbs, and is cooked on skewers over hot coals or in a tandoor oven. Seekh kebab is often served with naan bread or rice, and can be accompanied by various chutneys, sauces, or yogurt-based dips. It is a flavorful and delicious dish that is enjoyed by many people around the world",
+                "method": "In a bowl mix together the mutton mince and the chicken mince. Mix them with your hands.Add ginger-garlic paste to it along with onion paste, red chilli powder, coriander powder, cumin powder, powdered pepper, dried mango powder, saunth, oil, cashew paste and cream. Mix nicely.Add besan (chickpea flour) and egg yolk to bind. Mix well.Add salt to taste. Mix. Cover and keep in the fridge for 1 hour.Skewer the kebabs onto oiled skewers and grill or roast till the outside is nicely browned. Baste frequently with oil while grilling.Once the kebabs are cooked, remove to a serving platter and garnish with onion rings, fresh coriander leaves and lemon wedges.",
+                "rating": 4.9
+            },
+            {
+                "id": 3,
+                "img": "https://www.chefspencil.com/wp-content/uploads/Rasgulla-960x960.jpg",
+                "ingredients": "Milk, Lemon juice or vinegar, Sugar, water, Cardamom, rose water or saffron, Cornflour or semolina",
+                "name": "Rasgulla",
+                "info": "Rasgulla is also a popular dessert in Bangladesh, where it is known as 'rossomalai'. The preparation and cooking method is similar to the Indian version, where the chenna dough is kneaded into small balls, boiled in sugar syrup, and then soaked in a creamy milk mixture. The milk mixture can be flavored with cardamom, saffron, or other spices, and is sometimes garnished with nuts, such as almonds or pistachios. Rossomalai is a beloved dessert in Bangladesh and is often served during special occasions, such as weddings and Eid celebrations. It is a sweet and creamy dessert that is loved by many people in Bangladesh and around the world.",
+                "method": "In a large pot, bring 4 cups of whole milk to a boil.Reduce the heat to low and add 2 tablespoons of lemon juice or vinegar to the milk.Stir the milk gently until it curdles and the whey separates from the curds.Pour the curdled milk through a cheesecloth-lined strainer to separate the curds from the whey. Gather the cheesecloth together and squeeze out as much liquid as possible.Knead the chenna (curdled milk) until it forms a smooth dough-like texture.Divide the chenna into small balls and roll them between your palms until they are smooth and without any cracks.In a separate pot, combine 1 cup of granulated sugar and 5 cups of water and bring to a boil, stirring until the sugar dissolves.Gently add the chenna balls to the boiling syrup and cover the pot.Let the Rasgullas cook in the syrup on medium heat for 15-20 minutes.Turn off the heat and let the Rasgullas cool in the syrup for a few hours.Remove the Rasgullas from the syrup and serve chilled.",
+                "rating": 5
+            }
+        ]
     },
     {
         "id": "5",
@@ -69,7 +153,36 @@
         "chef_name": "Ahsan Habib",
         "years_of_experience": "4 Years",
         "numbers_of_recipes": 96,
-        "likes": 6523
+        "likes": 6523,
+        "view-recipes": [
+            {
+                "id": 1,
+                "img": "https://www.chefspencil.com/wp-content/uploads/Seekh-Kebab-960x960.jpg.webp",
+                "ingredients": "mutton , chicken , ginger-garlic paste, onion paste , red chilli powder, coriander powder, cumin powder, pepper, powdered, dried mango powder, saunth (dry ginger powder), oil, cashew paste, cream, besan, yolk, taste salt",
+                "name": "Seekh Kebab",
+                "info": "Seekh kebab is a popular dish in many other countries in South Asia, Central Asia, and the Middle East, including India, Pakistan, Afghanistan, Iran, and Turkey. The recipe and cooking method may vary slightly depending on the region and local ingredients, but the dish is generally made with minced meat, spices, and herbs, and is cooked on skewers over hot coals or in a tandoor oven. Seekh kebab is often served with naan bread or rice, and can be accompanied by various chutneys, sauces, or yogurt-based dips. It is a flavorful and delicious dish that is enjoyed by many people around the world",
+                "method": "In a bowl mix together the mutton mince and the chicken mince. Mix them with your hands.Add ginger-garlic paste to it along with onion paste, red chilli powder, coriander powder, cumin powder, powdered pepper, dried mango powder, saunth, oil, cashew paste and cream. Mix nicely.Add besan (chickpea flour) and egg yolk to bind. Mix well.Add salt to taste. Mix. Cover and keep in the fridge for 1 hour.Skewer the kebabs onto oiled skewers and grill or roast till the outside is nicely browned. Baste frequently with oil while grilling.Once the kebabs are cooked, remove to a serving platter and garnish with onion rings, fresh coriander leaves and lemon wedges.",
+                "rating": 4.9
+            },
+            {
+                "id": 2,
+                "img": "https://www.chefspencil.com/wp-content/uploads/Haleem-960x960.jpg.webp",
+                "ingredients": "Meat, Lentils, Wheat, Spices, Onions, Ginger and garlic, Ghee or oil, Garnishes",
+                "name": "Haleem",
+                "info": "Haleem is a thick, porridge-like dish that is popular in South Asian and Middle Eastern cuisine. It is typically made with a combination of meat (such as beef, lamb, or chicken), lentils, and wheat, along with a blend of spices and other flavorings. The ingredients are slow-cooked over several hours until they become tender and mushy, resulting in a rich and flavorful dish that is often served with bread or naan. Haleem is a hearty and nutritious meal that is often enjoyed during festivals and special occasions, and it is considered a comfort food by many.",
+                "method": "Soak the broken wheat and lentils in water for 2-3 hours.In a large pot, cook the meat in water until tender. Remove the meat and set asideIn the same pot, add the soaked wheat and lentils along with 8-10 cups of water. Cook on low heat for 2-3 hours, stirring occasionally.In a separate pan, heat oil or ghee and fry the sliced onions until golden brown. Add ginger-garlic paste and fry for another minute.Add the fried onions, ginger-garlic paste, and spices to the pot with the cooked wheat and lentils. Mix well and continue cooking for another hour, stirring occasionally.Once the mixture is thick and smooth, add the cooked meat and garam masala powder. Mix well and cook for another 15-20 minutes.Serve hot with garnishes like fried onions, lemon wedges, chopped coriander leaves, and ginger juliennes.",
+                "rating": 4.8
+            },
+            {
+                "id": 3,
+                "img": "https://www.chefspencil.com/wp-content/uploads/Screenshot-2021-05-24-at-19.15.48.jpg.webp",
+                "ingredients": "Chicken (breast, thighs, or drumsticks), Yogurt,Lemon juice, Ginger paste, Garlic paste, Red chili powder, Red chili powder, Coriander powder, Garam masala, salt, Oil (for grilling)",
+                "name": "Grill Chicken With Naan Roti",
+                "info": " Grilled chicken with naan roti is also a popular dish in Bangladesh, where it is often served as a street food. The chicken is marinated in a mixture of spices and yogurt, and then grilled to perfection over an open flame. The naan bread is usually freshly made, soft and fluffy, and is often served with a side of spicy mint chutney or a refreshing cucumber salad. Grilled chicken with naan roti is a delicious and satisfying meal that is enjoyed by many people in Bangladesh and around the world.",
+                "method": "In a mixing bowl, combine 1 cup of yogurt, 2 tablespoons of lemon juice, 1 tablespoon of ginger paste, 1 tablespoon of garlic paste, 1 teaspoon of red chili powder, 1 teaspoon of cumin powder, 1 teaspoon of coriander powder, 1/2 teaspoon of garam masala, and salt to taste.Mix well to combine all the spices.Add chicken pieces (breast, thighs, or drumsticks) to the marinade and coat them well.Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.Preheat a grill pan or outdoor grill to medium-high heat.Brush the grill with oil. Place the marinated chicken pieces on the grill and cook for 6-7 minutes on each side, or until the chicken is cooked through and browned on the outside.Remove the chicken from the grill and serve hot with naan roti",
+                "rating": 5
+            }
+        ]
     },
     {
         "id": "6",
@@ -77,6 +190,35 @@
         "chef_name": "Javed Hasan",
         "years_of_experience": "2 Years",
         "numbers_of_recipes": 6,
-        "likes": 3129
+        "likes": 3129,
+        "view-recipes": [
+            {
+                "id": 1,
+                "img": "https://www.chefspencil.com/wp-content/uploads/Seekh-Kebab-960x960.jpg.webp",
+                "ingredients": "mutton , chicken , ginger-garlic paste, onion paste , red chilli powder, coriander powder, cumin powder, pepper, powdered, dried mango powder, saunth (dry ginger powder), oil, cashew paste, cream, besan, yolk, taste salt",
+                "name": "Seekh Kebab",
+                "info": "Seekh kebab is a popular dish in many other countries in South Asia, Central Asia, and the Middle East, including India, Pakistan, Afghanistan, Iran, and Turkey. The recipe and cooking method may vary slightly depending on the region and local ingredients, but the dish is generally made with minced meat, spices, and herbs, and is cooked on skewers over hot coals or in a tandoor oven. Seekh kebab is often served with naan bread or rice, and can be accompanied by various chutneys, sauces, or yogurt-based dips. It is a flavorful and delicious dish that is enjoyed by many people around the world",
+                "method": "In a bowl mix together the mutton mince and the chicken mince. Mix them with your hands.Add ginger-garlic paste to it along with onion paste, red chilli powder, coriander powder, cumin powder, powdered pepper, dried mango powder, saunth, oil, cashew paste and cream. Mix nicely.Add besan (chickpea flour) and egg yolk to bind. Mix well.Add salt to taste. Mix. Cover and keep in the fridge for 1 hour.Skewer the kebabs onto oiled skewers and grill or roast till the outside is nicely browned. Baste frequently with oil while grilling.Once the kebabs are cooked, remove to a serving platter and garnish with onion rings, fresh coriander leaves and lemon wedges.",
+                "rating": 4.9
+            },
+            {
+                "id": 2,
+                "img": "https://www.chefspencil.com/wp-content/uploads/Rasgulla-960x960.jpg",
+                "ingredients": "Milk, Lemon juice or vinegar, Sugar, water, Cardamom, rose water or saffron, Cornflour or semolina",
+                "name": "Rasgulla",
+                "info": "Rasgulla is also a popular dessert in Bangladesh, where it is known as 'rossomalai'. The preparation and cooking method is similar to the Indian version, where the chenna dough is kneaded into small balls, boiled in sugar syrup, and then soaked in a creamy milk mixture. The milk mixture can be flavored with cardamom, saffron, or other spices, and is sometimes garnished with nuts, such as almonds or pistachios. Rossomalai is a beloved dessert in Bangladesh and is often served during special occasions, such as weddings and Eid celebrations. It is a sweet and creamy dessert that is loved by many people in Bangladesh and around the world.",
+                "method": "In a large pot, bring 4 cups of whole milk to a boil.Reduce the heat to low and add 2 tablespoons of lemon juice or vinegar to the milk.Stir the milk gently until it curdles and the whey separates from the curds.Pour the curdled milk through a cheesecloth-lined strainer to separate the curds from the whey. Gather the cheesecloth together and squeeze out as much liquid as possible.Knead the chenna (curdled milk) until it forms a smooth dough-like texture.Divide the chenna into small balls and roll them between your palms until they are smooth and without any cracks.In a separate pot, combine 1 cup of granulated sugar and 5 cups of water and bring to a boil, stirring until the sugar dissolves.Gently add the chenna balls to the boiling syrup and cover the pot.Let the Rasgullas cook in the syrup on medium heat for 15-20 minutes.Turn off the heat and let the Rasgullas cool in the syrup for a few hours.Remove the Rasgullas from the syrup and serve chilled.",
+                "rating": 5
+            },
+            {
+                "id": 3,
+                "img": "https://www.chefspencil.com/wp-content/uploads/Screenshot-2021-05-24-at-19.15.48.jpg.webp",
+                "ingredients": "Chicken (breast, thighs, or drumsticks), Yogurt,Lemon juice, Ginger paste, Garlic paste, Red chili powder, Red chili powder, Coriander powder, Garam masala, salt, Oil (for grilling)",
+                "name": "Grill Chicken With Naan Roti",
+                "info": " Grilled chicken with naan roti is also a popular dish in Bangladesh, where it is often served as a street food. The chicken is marinated in a mixture of spices and yogurt, and then grilled to perfection over an open flame. The naan bread is usually freshly made, soft and fluffy, and is often served with a side of spicy mint chutney or a refreshing cucumber salad. Grilled chicken with naan roti is a delicious and satisfying meal that is enjoyed by many people in Bangladesh and around the world.",
+                "method": "In a mixing bowl, combine 1 cup of yogurt, 2 tablespoons of lemon juice, 1 tablespoon of ginger paste, 1 tablespoon of garlic paste, 1 teaspoon of red chili powder, 1 teaspoon of cumin powder, 1 teaspoon of coriander powder, 1/2 teaspoon of garam masala, and salt to taste.Mix well to combine all the spices.Add chicken pieces (breast, thighs, or drumsticks) to the marinade and coat them well.Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.Preheat a grill pan or outdoor grill to medium-high heat.Brush the grill with oil. Place the marinated chicken pieces on the grill and cook for 6-7 minutes on each side, or until the chicken is cooked through and browned on the outside.Remove the chicken from the grill and serve hot with naan roti",
+                "rating": 5
+            }
+        ]
     }
 ]

@@ -10,10 +10,10 @@ const chef = require('./data/chef.json')
 app.use(cors());
 
 app.get('/', (req, res) => {
-    res.send('dragon is running')
+    res.send('chef is running')
 })
 
-app.get('/chefs', (req, res) => {
+app.get('/chefs-marquee', (req, res) => {
     res.send(chefs)
 })
 
@@ -21,11 +21,11 @@ app.get('/chef', (req, res) => {
     res.send(chef);
 })
 
-app.get('/chef/:id', (req, res) => {
-    const id = req.params.id;
-    const selectedChef = chef.find(n => n.id === id);
-    res.send(selectedChef);
-})
+// app.get('/chef/:id', (req, res) => {
+//     const id = req.params.id;
+//     const selectedChef = chef.find(n => n.id === id);
+//     res.send(selectedChef);
+// })
 
 // app.get('/categories/:id', (req, res) => {
 //     const id = parseInt(req.params.id);
@@ -39,5 +39,5 @@ app.get('/chef/:id', (req, res) => {
 // })
 
 app.listen(port, () => {
-    console.log(`Dragon is running on port: ${port}`);
+    console.log(`Chef is running on port: ${port}`);
 })
