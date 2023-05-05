@@ -5,6 +5,7 @@
         "chef_name": "Subir Kumar Deb",
         "years_of_experience": "12 Years",
         "numbers_of_recipes": 107,
+        "bio": "Subir Kumar Deb is a Bangladeshi chef who specializes in vegetarian and vegan cuisine. She is the owner of 'The Veggie Table' restaurant in Dhaka, which offers healthy and delicious plant-based meals.",
         "likes": 25421,
         "recipe": [
             {
@@ -42,6 +43,7 @@
         "chef_name": "Sharad Dewan",
         "years_of_experience": "7 Years",
         "numbers_of_recipes": 78,
+        "bio": "Sharad Dewan is a renowned Bangladeshi chef specializing in traditional Bengali cuisine. He's known for his creative use of local ingredients.",
         "likes": 18953,
         "recipe": [
             {
@@ -79,6 +81,7 @@
         "chef_name": "Ashraful Islam Ashraf",
         "years_of_experience": "4 Years",
         "numbers_of_recipes": 70,
+        "bio": "Ashraful Islam Ashraf is a Bangladeshi chef and restaurateur who is known for his contributions to the development of Bangladeshi cuisine in the UK. He has authored several cookbooks and is the owner of 'The Raj' restaurant in London, which has won multiple awards for its authentic and innovative dishes.",
         "likes": 9081,
         "recipe": [
             {
@@ -116,6 +119,7 @@
         "chef_name": "Md Mahbubul Alom",
         "years_of_experience": "4 Years",
         "numbers_of_recipes": 69,
+        "bio":"Md Mahbubul Alom is a Bangladeshi-born British chef and cookbook author who specializes in healthy and contemporary Indian cuisine. She's the host of several cooking shows on TV and has authored several bestselling cookbooks, including 'Indian Every Day: Light, Healthy Indian Food'.",
         "likes": 8756,
         "recipe": [
             {
@@ -153,6 +157,7 @@
         "chef_name": "Ahsan Habib",
         "years_of_experience": "4 Years",
         "numbers_of_recipes": 96,
+        "bio":"Ahsan Habib is a Bangladeshi-British chef who's the owner and head chef of the acclaimed restaurant 'The Unlucky Cat' in London. He's known for his innovative and modern approach to Asian fusion cuisine, which he blends with traditional British cooking techniques. ",
         "likes": 6523,
         "recipe": [
             {
@@ -190,6 +195,7 @@
         "chef_name": "Javed Hasan",
         "years_of_experience": "2 Years",
         "numbers_of_recipes": 6,
+        "bio": "Javed Hasan is a Bangladeshi-American chef and TV personality who's the host of the popular cooking show 'Javed's Kitchen' on local TV in New York. She specializes in creating delicious and healthy fusion dishes that combine elements of Bangladeshi, Indian, and American cuisine.",
         "likes": 3129,
         "recipe": [
             {
